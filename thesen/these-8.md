@@ -1,0 +1,3 @@
+# Endgültige Abkehr vom "Dezentralen Leistungsmarkt" bzw. "Dezentralen Kapazitätsmarkt"
+
+**Beide Konzepte steigern systematisch die Kosten des Gesamtsystems und kompensieren Standortnachteile von Großkraftwerken zu stark. Stattdessen sollte eine marktwirtschaftlich organisierte und an eine Versicherung angelehnte Kapazitätsabsicherung das bestehende Modell ersetzen. Diese kann von verschiedenen Akteuren wie Aggregatoren, Finanzdienstleistern oder kommunalen EVUs angeboten werden. Dies schafft größere Effizienz, reduziert systemische Kosten und setzt Anreize für eine breite Palette von Marktteilnehmern, flexibler auf Marktbedingungen zu reagieren.**
