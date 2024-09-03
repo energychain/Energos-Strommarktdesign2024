@@ -27,7 +27,7 @@ GIT Repository: [https://github.com/energychain/Energos-Strommarktdesign2024](ht
 
 Im Zuge der Energiewende und der neuen Anforderungen an eine nachhaltige und flexible Energieversorgung müssen verschiedene bisherige Praktiken und Mechanismen überdacht und verändert werden. Die folgenden Praktiken sind in einem modernen Strommarktdesign nicht mehr zeitgemäß und sollten daher ersetzt werden.
 
-1.  **Nutzung der EPEX Spot als Spotmarkt für Ausgleichsenergie bei Bilanzkreisen zur** [**Wertbestimmung von Strom**](https://eur-lex.europa.eu/legal-content/de/ALL/?uri=CELEX:32014R0600) **("**MiFIR")
+1.  **Nutzung der EPEX Spot als Spotmarkt für Ausgleichsenergie bei Bilanzkreisen zur** [**Wertbestimmung von Strom**](https://eur-lex.europa.eu/legal-content/de/ALL/?uri=CELEX:32014R0600) (**"**MiFIR")
 
     Der EPEX Spotmarkt sollte nicht länger die primäre Referenz für die Wertbestimmung von Ausgleichsenergie sein. Stattdessen sollten dynamische und regional differenzierte Märkte geschaffen werden, die die tatsächlichen Kosten und Anforderungen der Netzstabilität besser abbilden.
 2.  **Optimierung von** [**Redispatch**](https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/Netzengpassmanagement/Engpassmanagement/Redispatch/start.html) **ohne eine vorhergehende Veränderung des Dispatches**
