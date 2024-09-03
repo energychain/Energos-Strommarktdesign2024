@@ -22,4 +22,4 @@
 * [Investitionsrahmen für erneuerbare Energien](konsultation/kapitel-3-1.md)
 * [Investitionsrahmen für steuerbare Kapazitäten](konsultation/kapitel-3-2.md)
 * [Lokale Signale](konsultation/kapitel-3-3.md)
-* [Flexibilität](konsultation/flexibilitat.md)
+* [Flexibilität](konsultation/kapitel-3-4.md)
