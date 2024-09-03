@@ -19,6 +19,10 @@ layout:
 
 # Energonos - Manifest des Strommarktdesigns 2024
 
+Publikation: [https://stromdao.gitbook.io/energonos-manifest-des-strommarktdesigns-2024/](https://stromdao.gitbook.io/energonos-manifest-des-strommarktdesigns-2024/)
+
+GIT Repository: [https://github.com/energychain/Energos-Strommarktdesign2024](https://github.com/energychain/Energos-Strommarktdesign2024)
+
 Im Zuge der Energiewende und der neuen Anforderungen an eine nachhaltige und flexible Energieversorgung müssen verschiedene bisherige Praktiken und Mechanismen überdacht und verändert werden. Die folgenden Praktiken sind in einem modernen Strommarktdesign nicht mehr zeitgemäß und sollten daher ersetzt werden.
 
 1.  **Nutzung der EPEX Spot als Spotmarkt für Ausgleichsenergie bei Bilanzkreisen zur** [**Wertbestimmung von Strom**](https://eur-lex.europa.eu/legal-content/de/ALL/?uri=CELEX:32014R0600) **("**MiFIR")
