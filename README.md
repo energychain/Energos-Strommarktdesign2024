@@ -17,7 +17,9 @@ layout:
     visible: true
 ---
 
-# Energonos - Manifest des Strommarktdesigns 2024
+# Energonos
+
+### Manifest des Strommarktdesigns 2024
 
 Publikation: [https://stromdao.gitbook.io/energonos-manifest-des-strommarktdesigns-2024/](https://stromdao.gitbook.io/energonos-manifest-des-strommarktdesigns-2024/)
 
