@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Energonos](README.md)
+* [Präambel](README.md)
 * [Manifest](manifest.md)
 * [Impressum / Maintainer](impressum-maintainer.md)
 
