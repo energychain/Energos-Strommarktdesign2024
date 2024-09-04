@@ -19,42 +19,34 @@ layout:
 
 # Energonos
 
-### Manifest des Strommarktdesigns 2024
+
 
 Publikation: [https://stromdao.gitbook.io/energonos-manifest-des-strommarktdesigns-2024/](https://stromdao.gitbook.io/energonos-manifest-des-strommarktdesigns-2024/)
 
 GIT Repository: [https://github.com/energychain/Energos-Strommarktdesign2024](https://github.com/energychain/Energos-Strommarktdesign2024)
 
-Im Zuge der Energiewende und der neuen Anforderungen an eine nachhaltige und flexible Energieversorgung müssen verschiedene bisherige Praktiken und Mechanismen überdacht und verändert werden. Die folgenden Praktiken sind in einem modernen Strommarktdesign nicht mehr zeitgemäß und sollten daher ersetzt werden.
+### Ausgangslage und Problemstellung
 
-1.  [**These 1**](thesen/these-1.md)**: Nutzung der EPEX Spot als Spotmarkt für Ausgleichsenergie bei Bilanzkreisen zur** [**Wertbestimmung von Strom**](https://eur-lex.europa.eu/legal-content/de/ALL/?uri=CELEX:32014R0600) (**"**MiFIR")
+Die Hinweise nehmen zu, dass in einigen Fällen zusätzliche Wärmepumpen, Lade­sta­tionen und Solarstromanlagen wegen fehlender Netzkapazität nicht angeschlossen werden können.
 
-    Der EPEX Spotmarkt sollte nicht länger die primäre Referenz für die Wertbestimmung von Ausgleichsenergie sein. Stattdessen sollten dynamische und regional differenzierte Märkte geschaffen werden, die die tatsächlichen Kosten und Anforderungen der Netzstabilität besser abbilden.&#x20;
-2.  [**These 2**](thesen/these-2.md)**: Optimierung von** [**Redispatch**](https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/Netzengpassmanagement/Engpassmanagement/Redispatch/start.html) **ohne eine vorhergehende Veränderung des Dispatches**
+Die reguläre Einsatzplanung von Kraftwerken (dispatch) auf Grundlage eines Energy-Only-Markts in einer bundesweit einheitlichen Strompreiszone wird zunehmend zu einem Eingriffs- und Abregelungsmarkt (Redispatch) mit zunehmend negativen Spotmarktpreisen und höheren volkswirtschaftlichen Kosten. Es liegt ein Marktversagen aufgrund falscher politischer Vorgaben vor.
 
-    Redispatch-Maßnahmen, die nur auf nachträgliche Ausgleichsmaßnahmen abzielen, ohne eine vorhergehende Optimierung des Dispatches, sind ineffizient. Ein integriertes Management, das sowohl Dispatch- als auch Redispatch-Maßnahmen umfasst, sollte implementiert werden.
-3.  [**These 3**](thesen/these-3.md)**: Bedingungslose Einspeisung ohne eine Kapazitätsabsicherung beim Erzeuger**
+Kosten für den Stromnetzausbau oder Redispatch steigen. Die Folgen: Studien befürchten eine Verdopplung der Netzentgelte bis 2045. Darüber hinaus steigen die staatlichen Ausgleichszahlungen für die erneuerbaren Energien, die sich am Grenzkostenmarkt refinanzieren müssen. Gleichzeitig nimmt derzeit die Verteilungsbasis für die Kosten der aus dem Stromnetz entnommenen Strommenge ab.
 
-    Die Garantie der Einspeisung von Strom ins Netz ohne eine vorhergehende Kapazitätsabsicherung gefährdet die Netzstabilität. Neue Mechanismen zur Kapazitätsabsicherung beim Erzeuger sollten eingeführt werden, um eine stabile und verlässliche Einspeisung zu gewährleisten.
-4. [**These 4**](thesen/these-4.md)**: Ausschluss von Kleinerzeugern/Kleinverbrauchern vom aktiven Stromhandel**\
-   Der bisherige Ausschluss von Kleinerzeugern und Kleinverbrauchern vom aktiven Stromhandel grenzt wichtige Akteure aus. Eine Öffnung des Marktes, inklusive vereinfachter Zugangsmöglichkeiten und entsprechender Anreize, ist notwendig, um die Flexibilität im Netz zu erhöhen.
-5.  [**These 5**](thesen/these-5.md)**: Zentralisierung der Strompreise ohne Berücksichtigung der Kosten der Stromlogistik**
+Akteure vor Ort, die die Möglichkeiten dazu haben, reagieren bereits mit Maßnahmen wie z.B. kleinen Batteriespeicher sich vor diesem Marktversagen zu schützen. Ihre Erzeuger und Verbraucher werden weitgehend auf eine Eigenenergieversorgung optimiert, da Anreize für einen netz- und systemdienlichen Betrieb fehlen. Die Kosten für die backup Infrastruktur (Netzausbau und Ausgleichskraftwerke) werden weder verursachergerecht noch sozial austariert umgelegt.
 
-    Die zentralisierte Festlegung von Strompreisen, die die regional unterschiedlichen Kosten der Stromlogistik nicht berücksichtigt, ist ineffizient und ungerecht. Regionale Marktmechanismen, die diese Kostenfaktoren miteinbeziehen, müssen etabliert werden.\
-    \
-    Der [GrünstromIndex](https://gruenstromindex.de/), der den Grad der Deckung des Strombedarfs durch lokale Erzeugung anzeigt, kann als Indikator und vorhandenes lokales Preissignal zur Lösung des Problems herangezogen werden. Dieser Index unterstützt die Flexibilisierung und die lokale Anpassung der Stromnachfrage, indem er klare Signale für die Verfügbarkeit von Grünstrom liefert.
-6.  [**These 6**](thesen/these-6.md)**: Ignorieren der** [**ungeplanten Nichtverfügbarkeiten**](https://www.eex-transparency.com/de/erdgas/at/verbrauch/verfuegbarkeit) **der konventionellen, thermischen Kraftwerke**
+Die vor mehr als 10 Jahren geäußerten These, der Netzausbau und Residuallasterzeugung über Gasturbinen wären gegenüber einem zeitgleichen lokalen Ausgleich von Erzeugung und Verbrauch die weitaus kostengünstigste Lösung, stößt an seine Grenzen (These 4, 5 [Agora 2013](https://www.agora-energiewende.de/fileadmin/Projekte/2012/12-Thesen/Agora\_12\_Thesen\_Praesentation\_Vollstaendige\_Praesentation\_der\_Zusammenfassung\_RB\_25022013.pdf)). Dieser Illusion einer Kupferplatte liegt keine aktuelle Kosten-Nutzen-Analyse zugrunde.
 
-    Die ungeplanten Nichtverfügbarkeiten von konventionellen, thermischen Kraftwerken sollten nicht ignoriert werden. Stattdessen müssen flexible und dezentrale Lösungen entwickelt werden, die diese Unwägbarkeiten abfangen und kompensieren können, um die Versorgungssicherheit zu erhöhen.
-7.  [**These 7**](thesen/these-7.md)**: Fehlende Souveränität am Netzanschlusspunkt**
+### Optionen des BMWK können das Marktversagen im besten Fall lindern, aber nicht lösen
 
-    Die fehlende Souveränität am Netzanschlusspunkt behindert die Selbstverantwortung und die aktive Teilnahme lokaler Akteure am Strommarkt. Lokale Märkte und Regeln müssen geschaffen werden, die mehr Autonomie und Verantwortlichkeit auf lokaler Ebene ermöglichen.
-8.  [**These 8**](thesen/these-8.md)**: Endgültige Abkehr vom "**[**Dezentralen Leistungsmarkt"**](https://www.bdew.de/media/documents/Stn\_20140630\_Ausgestaltung-dezentraler-Leistungsmarkt.pdf) **(BDEW 2014) bzw. "**[**Dezentralen Kapazitätsmarkt**](https://www.bmwk.de/Redaktion/DE/Publikationen/Energie/20240801-strommarktdesign-der-zukunft.pdf?\_\_blob=publicationFile\&v=14\&page=9)**" (BMWK 2024)**
+Im „[Strommarkt der Zukunft - Optionen für ein sicheres, bezahlbares und nachhaltiges Stromsystem](https://www.bmwk.de/Redaktion/DE/Publikationen/Energie/20240801-strommarktdesign-der-zukunft.pdf?\_\_blob=publicationFile\&v=10)“ bekennt sich das Bundesministerium für Wirtschaft und Klimaschutz (BMWK) zur einheitlichen Strompreiszone. Es nimmt damit bereits eine wesentliche Option zur Zukunft des Strommarktes aus der Diskussion. Unter Berücksichtigung des Kurzpapiers “[Überblick zur Ausgestaltung eines kombinierten Kapazitätsmarktes](https://www.bmwk.de/Redaktion/DE/Downloads/klimaschutz/ag3-inputpapier-kombinierter-kapazitaetsmarkt-kkm.pdf?\_\_blob=publicationFile\&v=8)” vermittelt das BMWK den Eindruck, dass der kombinierte Kapazitätsmarkt bereits zum zentralen Instrument werden soll, dass alle oben genannten Fehlentwicklungen lösen soll.
 
-    Beide Konzepte steigern systematisch die Kosten des Gesamtsystems und kompensieren Standortnachteile von Großkraftwerken zu stark. Stattdessen sollte eine marktwirtschaftlich organisierte und an eine Versicherung angelehnte Kapazitätsabsicherung das bestehende Modell ersetzen. Diese kann von verschiedenen Akteuren wie Aggregatoren, Finanzdienstleistern oder kommunalen EVUs angeboten werden. Dies schafft größere Effizienz, reduziert systemische Kosten und setzt Anreize für eine breite Palette von Marktteilnehmern, flexibler auf Marktbedingungen zu reagieren.
-9.  [**These 9**](thesen/these-9.md)**: Ignorieren der Ergebnisse aus dem** [**Energieforschungsprogramm**](https://www.energieforschung.de/forschungsmissionen-fuer-die-energiewende/energieforschungsprogramm-des-bmwk) **(Förderprogramm des BMWK)**
+Aus Sicht der Unterzeichnenden werden so bestehende Geschäftsmodelle aufrecht erhalten, die den aktuellen Problemen nicht gerecht werden können. Energieintensive Produktionsverlagerungen sind bereits heute durch zu hohe Strompreiskomponenten für manche Unternehmung nicht mehr aufzuhalten. Dynamische Stromtarife, die sich am EPEX Spotmarktpreis ausrichten, setzen lokal falsche Anreize und werden die Kosten noch erhöhen.
 
-    Die Ergebnisse aus dem Energieforschungsprogramm, die zum Teil aus Steuermitteln finanziert wurden, werden in weiten Teilen ignoriert. Diese Ergebnisse sollten als Referenz bei der Gestaltung eines neuen Strommarktdesigns beachtet werden, um die praktische Anwendbarkeit und Effizienz neuer Lösungen zu gewährleisten und diese öffentlichen Investitionen bestmöglich zu nutzen
-10. [**These 10**](thesen/these-10.md)**: Technologieoffenheit vor und hinter dem Stromzähler**
+### Lösungsvorschlag: Lokale Preise und Einspeiseversicherungspflicht
 
-    Lösungen der Sektorenkopplung und X2G (X-to-Grid, z.B. Vehicle-to-Grid) müssen geöffnet und vereinfacht werden. Es soll die Möglichkeit zur souveränen Tarif- und Angebotsgestaltung ab der ersten Kilowattstunde bestehen, um eine breite Akzeptanz und Nutzung dieser Technologien zu fördern.
+Aus Sicht der Praxis vor Ort sind für einen flexiblen netz- und systemdienlichen Betrieb von Erzeugungs- und Verbrauchsanlagen lokal differenzierte Steuerungssignale erforderlich. Sie sollten zwei Informationen in der Vorhersage widerspiegeln. Zum einen die Information über den Zustand des Stromnetzes. Ist in den nächsten Stunden mit einer Überlastung zu rechnen oder kann noch mehr Strom bezogen oder abgegeben werden? Vergleichsweise einfache mögliche Ansätze, wie die Netzlast in der Kaskade der verschiedenen Netzebenen bestimmt und wie darauf aufbauend Netzentgelte berechnet werden können, liegen vor.
+
+Die zweite Information, sollte die aktuell benötigte fossile Residuallast anzeigen, um danach Erzeugungsanlagen vor Ort treibhausgasarm betreiben zu können. Ein Signal dieser Art ist der bereits verfügbare regionale Grünstromindex.
+
+Dadurch werden flexible und dezentrale Lösungen möglich, die die Ausfallwahrscheinlichkeiten sowohl der fossilen, wie der erneuerbaren Erzeugungskapazitäten und Netzengpässe (Stromlogistik) durch eine Absicherungspflicht in die Kosten einbeziehen, um die Versorgungssicherheit zu erhöhen. Diese Absicherungsplicht kann von verschiedenen Akteuren wie Planern,  Aggregatoren, Finanzdienstleistern oder kommunalen EVUs unter Ausnutzung des gesamten vor Ort nutzbaren Wissens über Flexibilitätsoptionen angeboten werden.

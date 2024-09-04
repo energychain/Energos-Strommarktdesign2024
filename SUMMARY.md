@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Energonos](README.md)
+* [Manifest](manifest.md)
 * [Impressum / Maintainer](impressum-maintainer.md)
 
 ## Thesen
