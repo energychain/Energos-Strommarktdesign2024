@@ -24,3 +24,9 @@
 * [Investitionsrahmen für steuerbare Kapazitäten](konsultation/kapitel-3-2.md)
 * [Lokale Signale](konsultation/kapitel-3-3.md)
 * [Flexibilität](konsultation/kapitel-3-4.md)
+
+## Ausführliche Bewertung <a href="#bewertung" id="bewertung"></a>
+
+* [Inhalt](bewertung/inhalt.md)
+* [Zusammenfassende Bewertung](bewertung/zusammenfassende-bewertung.md)
+* [Einführende Gesamtsicht](bewertung/einfuhrende-gesamtsicht.md)

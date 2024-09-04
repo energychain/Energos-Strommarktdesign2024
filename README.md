@@ -51,6 +51,8 @@ Die zweite Information sollte die aktuell benötigte fossile Residuallast anzeig
 
 Dadurch werden flexible und dezentrale Lösungen möglich, die die Ausfallwahrscheinlichkeiten sowohl der fossilen, wie der erneuerbaren Erzeugungskapazitäten und Netzengpässe (Stromlogistik) durch eine Absicherungspflicht in die Kosten einbeziehen, um die Versorgungssicherheit zu erhöhen. Diese Absicherungsplicht kann von verschiedenen Akteuren wie Planern,  Aggregatoren, Finanzdienstleistern oder kommunalen EVUs unter Ausnutzung des gesamten vor Ort nutzbaren Wissens über Flexibilitätsoptionen angeboten werden.
 
+[Vollständige Beurteilung (PDF)](https://klimaschutz-im-bundestag.de/wp-content/uploads/2024/09/Strommarkt\_der\_Zukunft\_KiB\_Erlaeuterungen\_final.pdf)
+
 ### Autoren
 
 ```
