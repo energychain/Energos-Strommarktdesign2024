@@ -1,3 +1,5 @@
-# Optimierung von Redispatch ohne eine vorhergehende Veränderung des Dispatches
+# Der zunehmende Eingriffs- und Abregelungsmarkt (Redispatch) ohne eine lokalere verbesserte
 
-**Redispatch-Maßnahmen, die nur auf nachträgliche Ausgleichsmaßnahmen abzielen, ohne eine vorhergehende Optimierung des Dispatches, sind ineffizient. Ein integriertes Management, das sowohl Dispatch- als auch Redispatch-Maßnahmen umfasst, sollte implementiert werden.**
+Ein integriertes Management, das sowohl Dispatch- als auch Redispatch-Maßnahmen auch auf lokaler Ebene anreizt, sollte implementiert werden.
+
+Beispiel: Redispatch ist immer eine Verallgemeinerung eines Standortnachteils. Braunkohlekraftwerke, die heute an Standorten mit geringer Industrie sind, zeigen dieses sehr deutlich
