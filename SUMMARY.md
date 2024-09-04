@@ -6,16 +6,16 @@
 
 ## Thesen
 
-* [Nutzung der EPEX Spot als Spotmarkt für Ausgleichsenergie bei Bilanzkreisen zur Wertbestimmung](thesen/these-1.md)
-* [Der zunehmende Eingriffs- und Abregelungsmarkt (Redispatch) ohne eine lokalere verbesserte](thesen/these-2.md)
-* [Bedingungslose Einspeisung ohne eine Kapazitätsabsicherung beim Erzeuger](thesen/these-3.md)
-* [Ausschluss von Kleinerzeugern/Kleinverbrauchern vom aktiven Stromhandel](thesen/these-4.md)
-* [Zentralisierung der Strompreise ohne Berücksichtigung der Kosten der Stromlogistik](thesen/these-5.md)
-* [Ignorieren der ungeplanten Nichtverfügbarkeiten der konventionellen, thermischen Kraftwerke](thesen/these-6.md)
-* [Fehlende Souveränität am Netzanschlusspunkt](thesen/these-7.md)
-* [Sowohl ein "dezentraler Leistungsmarkt" (BDEW 2014) als auch ein "dezentraler Kapazitäts-markt](thesen/these-8.md)
-* [Ignorieren der Ergebnisse aus dem Energieforschungsprogramm (Förderprogramm des BMWK)](thesen/these-9.md)
-* [Technologieoffenheit vor und hinter dem Stromzähler](thesen/these-10.md)
+* [These 1: Kein EPEX Preis als Wert für Strom](thesen/these-1.md)
+* [These 2: Lokalen Dispatch optimieren](thesen/these-2.md)
+* [These 3: Schluss mit dezentraler Leistungsmarkt](thesen/these-3.md)
+* [These 4: Abkehr von bedingungsloser Einspeisung](thesen/these-4.md)
+* [These 5: Marktzugang für Kleinerzeuger/Verbraucher](thesen/these-5.md)
+* [These 6: Regionale  Stromtarife zur Kostendeckung der Stromlogistik](thesen/these-6.md)
+* [These 7: Kosten für ungeplante Nichtverfügbarkeit](thesen/these-7.md)
+* [These 8: Souveränität am Netzanschlusspunkt für mehr Flexibilität](thesen/these-8.md)
+* [These 9: Ergebnisse aus der Forschung berücksichtigen](thesen/these-9.md)
+* [These 10: Technologieoffenheit fördern](thesen/these-10.md)
 
 ## Konsultation
 

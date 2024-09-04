@@ -50,3 +50,11 @@ Aus Sicht der Praxis vor Ort sind für einen flexiblen netz- und systemdienliche
 Die zweite Information sollte die aktuell benötigte fossile Residuallast anzeigen, um danach Erzeugungsanlagen vor Ort treibhausgasarm betreiben zu können. Ein Signal dieser Art ist der bereits verfügbare regionale Grünstromindex.
 
 Dadurch werden flexible und dezentrale Lösungen möglich, die die Ausfallwahrscheinlichkeiten sowohl der fossilen, wie der erneuerbaren Erzeugungskapazitäten und Netzengpässe (Stromlogistik) durch eine Absicherungspflicht in die Kosten einbeziehen, um die Versorgungssicherheit zu erhöhen. Diese Absicherungsplicht kann von verschiedenen Akteuren wie Planern,  Aggregatoren, Finanzdienstleistern oder kommunalen EVUs unter Ausnutzung des gesamten vor Ort nutzbaren Wissens über Flexibilitätsoptionen angeboten werden.
+
+### Autoren
+
+```
+Dr. Jörg Lange, Wissenschaftlicher Referent, Klimaschutz im Bundestag (KiB) e.V.
+Thorsten Zoerner, Geschäftsführer, STROMDAO GmbH
+```
+

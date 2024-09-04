@@ -1,3 +1,9 @@
-# Endgültige Abkehr vom "Dezentralen Leistungsmarkt" bzw. "Dezentralen Kapazitätsmarkt"
+# These 8: Souveränität am Netzanschlusspunkt für mehr Flexibilität
 
-**Beide Konzepte steigern systematisch die Kosten des Gesamtsystems und kompensieren Standortnachteile von Großkraftwerken zu stark. Stattdessen sollte eine marktwirtschaftlich organisierte und an eine Versicherung angelehnte Kapazitätsabsicherung das bestehende Modell ersetzen. Diese kann von verschiedenen Akteuren wie Aggregatoren, Finanzdienstleistern oder kommunalen EVUs angeboten werden. Dies schafft größere Effizienz, reduziert systemische Kosten und setzt Anreize für eine breite Palette von Marktteilnehmern, flexibler auf Marktbedingungen zu reagieren.**
+**Die fehlende Souveränität bis zum Netzanschlusspunkt behindert die Selbstverantwortung und die aktive Teilnahme lokaler Akteure am Strommarkt.**
+
+Lokale Märkte und Regeln sollten mehr netz- und systemdienliche Verantwortlichkeit im Rahmen eines autonomen Energiemanagement ermöglichen.
+
+#### Beispiel / Erklärung&#x20;
+
+Strom kann derzeit noch nicht gezielt von einem Akteur an einen anderen Akteur vor Ort (abgesehen von der unmittelbaren Nachbarschaft) direkt verkauft werden, ohne ein vollständiges Netzentgelt auch für Netzebenen zahlen zu müssen, die zeitgleich nicht in Anspruch genommen werden. Der Kostenvorteil, der sich über Herkunftsnachweise eigentlich am Markt hätte einstellen könnten, hat sich in der Praxis nicht bewährt. Stromkunden können Angebote von Stromanbietern in unmittelbarer Nähe nicht nutzen.

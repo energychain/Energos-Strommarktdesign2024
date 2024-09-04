@@ -1,3 +1,7 @@
-# Ausschluss von Kleinerzeugern/Kleinverbrauchern vom aktiven Stromhandel
+# These 4: Abkehr von bedingungsloser Einspeisung
 
-Der bisherige Ausschluss von Kleinerzeugern und Kleinverbrauchern vom aktiven Stromhandel grenzt wichtige Akteure aus. Eine Öffnung des Marktes, inklusive vereinfachter Zugangsmöglichkeiten und entsprechender Anreize, ist notwendig, um die Flexibilität im Netz zu erhöhen.
+**Die bisherige bedingungslose Einspeisung ohne eine zeitgleiche Kapazitätsabsicherung beim Erzeuger gefährdet die Netzstabilität und die Bezahlbarkeit von Energie im internationalen Wettbewerb.**
+
+#### **Beispiel / Erklärung**
+
+Netzdienlichkeit hat in einem Energy-Only-Markt (bisher) keinen Preis, d.h. die Risikoabsicherung, dass Angebot und Bedarf nicht zusammenpassen, wird einseitig in die Netzentgelte ausgelagert. Dies sollte mit einer Einspeise(Kapazitäts-)versicherungspflicht adressiert werden.

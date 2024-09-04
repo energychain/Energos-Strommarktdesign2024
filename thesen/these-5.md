@@ -1,5 +1,9 @@
-# Zentralisierung der Strompreise ohne Berücksichtigung der Kosten der Stromlogistik
+# These 5: Marktzugang für Kleinerzeuger/Verbraucher
 
-**Die zentralisierte Festlegung von Strompreisen, die die regional unterschiedlichen Kosten der Stromlogistik nicht berücksichtigt, ist ineffizient und ungerecht. Regionale Marktmechanismen, die diese Kostenfaktoren miteinbeziehen, müssen etabliert werden.**
+**Der bisherige Ausschluss von Kleinerzeugern und Kleinverbrauchern vom aktiven Stromhandel lässt wichtige Flexibilitätsoptionen ungenutzt.**
 
-**Der GrünstromIndex, der den Grad der Deckung des Strombedarfs durch lokale Erzeugung anzeigt, kann als Indikator und vorhandenes lokales Preissignal zur Lösung des Problems herangezogen werden. Dieser Index unterstützt die Flexibilisierung und die lokale Anpassung der Stromnachfrage, indem er klare Signale für die Verfügbarkeit von Grünstrom liefert.**
+Eine Öffnung für lokale Märkte, inklusive vereinfachter Zugangsmöglichkeiten und entsprechender Anreize, ist notwendig, um die Flexibilität im Netz zu erhöhen.
+
+#### Beispiel / Erklärung
+
+In Deutschland existieren zahlreiche Wärmepumpen und Kraft-Wärme-Kopplungs (KWK)- Anlagen, die bislang nicht am Strommarkt teilnehmen und damit nicht aktiv an einem Ausgleich der Angebots/Bedarfsbilanz vor Ort mitwirken.

@@ -1,5 +1,14 @@
 # Impressum / Maintainer
 
+### Autoren
+
+```
+Dr. Jörg Lange, Wissenschaftlicher Referent, Klimaschutz im Bundestag (KiB) e.V.
+Thorsten Zoerner, Geschäftsführer, STROMDAO GmbH
+```
+
+### Ansprechpartner im Sinne des Medienrechts (Impressum)
+
 STROMDAO GmbH\
 Gerhard Weiser Ring 29\
 69256 Mauer\
