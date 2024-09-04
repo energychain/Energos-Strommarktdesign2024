@@ -16,19 +16,19 @@ Wer Strom ins Netz einspeist, sollte eine Lieferverpflichtung eingehen, die auf 
 
 **Absicherung der Vertragserfüllung**
 
-Einspeiser sollten die Vertragserfüllung absichern, beispielsweise durch eine Einspeiseversicherung. Diese würde bei Nichterfüllung die fehlenden Energiemengen durch Überkapazitäten anderer Kraftwerke oder thermische Kraftwerke decken. Dadurch entstehen die Kosten für Systemdienstleistungen direkt am Entstehungspunkt und werden durch unabhängige Risikobewertungen ausgeglichen.
+Einspeiser sollten die Vertragserfüllung absichern, beispielsweise durch eine Einspeise(Kapazitäts-)absicherung. Diese würde bei Nichterfüllung die fehlenden Energiemengen durch Überkapazitäten anderer Kraftwerke oder thermische Kraftwerke decken. Dadurch entstehen die Kosten für Systemdienstleistungen direkt am Entstehungspunkt und werden durch unabhängige Risikobewertungen ausgeglichen.
 
 **Vorteile dieser Option**
 
 Kosten für Systemdienstleistungen: Die Kosten werden durch den Marktmechanismus effizient verteilt, ohne Verbraucher oder andere Marktteilnehmer unangemessen zu belasten.
 
-Anreize für systemdienliches Verhalten: Es entstehen Anreize für den effizienten Anlageneinsatz und eine auf die Marktbedürfnisse abgestimmte Produktion, was die Einspeiseversicherungskosten minimiert.
+Anreize für systemdienliches Verhalten: Es entstehen Anreize für den effizienten Anlageneinsatz und eine auf die Marktbedürfnisse abgestimmte Produktion, was die Einspeiseabsicherungskosten minimiert.
 
 Vermeidung von Zentralisierung: Die Entkopplung der Zahlungen von der Einspeisung vermeidet umfangreiche zentrale Kontrollmechanismen.
 
 **Herausforderungen**
 
-Verwaltung und Überwachung: Eine effektive Verwaltung der Einspeiseversicherungen muss sichergestellt werden, um Vertragszuverlässigkeit zu garantieren und Schlupflöcher zu verhindern.
+Verwaltung und Überwachung: Eine effektive Verwaltung der Einspeise(Kapazitäts-)absicherer muss sichergestellt werden, um Vertragszuverlässigkeit zu garantieren und Schlupflöcher zu verhindern.
 
 Marktakzeptanz: Marktteilnehmer könnten aufgrund der zusätzlichen Kosten zögern, Versicherungsverträge abzuschließen. Eine behutsame Einführung und breite Information sind entscheidend.
 
