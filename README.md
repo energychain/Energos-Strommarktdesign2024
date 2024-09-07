@@ -25,6 +25,8 @@ Publikation: [https://stromdao.gitbook.io/energonos-manifest-des-strommarktdesig
 
 GIT Repository: [https://github.com/energychain/Energos-Strommarktdesign2024](https://github.com/energychain/Energos-Strommarktdesign2024)
 
+[**Stellungnahme zum Strommarktdesign (06.09.2024) (PDF)**](Stellungnahme%20zum%20Strommarkt%20der%20Zukunft\_2024\_09\_06.pdf)
+
 ### Ausgangslage und Problemstellung
 
 Die Hinweise nehmen zu, dass in einigen Fällen zusätzliche Wärmepumpen, Lade­sta­tionen und Solarstromanlagen wegen fehlender Netzkapazität nicht angeschlossen werden können.
